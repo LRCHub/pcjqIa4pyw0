@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Dye the sky. -25 colors-",
+  "base_artist": "SHINY COLORS",
+  "createdAt": "2026-03-22T15:40:29.731107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dye the sky. - 2023 Version",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/01_Dye_the_sky._-_2023_Version_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dye the sky. (2023 Version)",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/02_Dye_the_sky._(2023_Version)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dye the sky. -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/03_Dye_the_sky._-25_colors-_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dye the sky.",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/04_Dye_the_sky._シャイニーカラーズ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dye the sky. -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/05_Dye_the_sky._-25_colors-_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dye the sky. -25 colors-",
+      "artist": "SHINY COLORS",
+      "has_synced": true,
+      "path": "select/06_Dye_the_sky._-25_colors-_SHINY_COLORS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dye the sky. (2023 Version)",
+      "artist": "SHINY COLORS",
+      "has_synced": true,
+      "path": "select/07_Dye_the_sky._(2023_Version)_SHINY_COLORS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dye the sky.",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Dye_the_sky._シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Dye the sky.",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_02_Dye_the_sky._シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Dye the sky. -28 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_03_Dye_the_sky._-28_colors-_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Dye the sky. - 2023 Version",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_04_Dye_the_sky._-_2023_Version_シャイニーカラーズ.txt"
+    }
+  ]
+}
